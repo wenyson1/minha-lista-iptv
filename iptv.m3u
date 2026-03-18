@@ -19,7 +19,7 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 ## DF FHD ##
 #EXTINF:-1 tvg-id="GLOBO3" tvg-name="GLOBO3" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="ABERTA", GLOBO CANAL 3 DF
-https://raw.githubusercontent.com/listamake/iptvbr/refs/heads/main/home.m3u
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1979
 
 ############### RECORDTV ###############
 
@@ -130,7 +130,7 @@ http://s2.micineovs.com/MEGAPIX/index.m3u8?token=16FOTt9Ae2m8
 http://79.127.243.211:14623/
 
 ############### STUDIO UNIVERSAL ###############
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://imgur.com/VwFjFMO.png" group-title="FILMES",STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://images.seeklogo.com/logo-png/31/1/studio-universal-logo-png_seeklogo-314574.png" group-title="FILMES",STUDIO UNIVERSAL
 http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1863
 
 ############### TELECINE ###############
